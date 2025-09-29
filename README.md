@@ -11,6 +11,17 @@
 
 ![Welcome page photo](/Repo-Assets/Welcome-Main-Page.jpg)
 
+# 世界の厳選画像
+## 新垣市(Aragaki)
+### 盛夕 正面鳥瞰図
+![Aragaki-Shengxi Front birdview](/Worlds/Screenshots/Aragaki-PE/Shengxi-Front.PNG)
+### 寒夕ジャンクション 鳥瞰図
+![Aragaki-Hanxi Interchange Birdview](/Worlds/Screenshots/Aragaki-PE/Hanxi-Interchange.PNG)
+### 临寒 駅
+![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station1.PNG)
+![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station2.PNG)
+
+
 # 興味のあるマップをダウンロードして探索しよう
 
 好きなマップをダウンロードして自分のデバイスで遊びたい場合は、以下の2つの方法を使用できます。（誰にもバレませんよ！）
@@ -115,14 +126,3 @@ GitHubのウェブサイト上で Pull Request を作成してください。
 # ディスカッションについて
 
 質問がある場合は、[ディスカッションページの固定トピック](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/1)をご覧ください。
-
-# 世界の厳選画像
-## 新垣市(Aragaki)
-### 盛夕 正面鳥瞰図
-![Aragaki-Shengxi Front birdview](/Worlds/Screenshots/Aragaki-PE/Shengxi-Front.PNG)
-### 寒夕ジャンクション 鳥瞰図
-![Aragaki-Hanxi Interchange Birdview](/Worlds/Screenshots/Aragaki-PE/Hanxi-Interchange.PNG)
-### 临寒 駅
-![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station1.PNG)
-![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station2.PNG)
-
